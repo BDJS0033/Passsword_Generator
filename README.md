@@ -1,8 +1,8 @@
-# Advanced CSS: Professional Portfolio
+# JavaScript Challenge: Password Generator
 
 ## Description
 ---
-This weeks challenge required a professional portfolio to be created for showcasing work that has been completed.
+This weeks challenge required a password generator based on user criteria. 
 
 ### User Story
 _____
@@ -34,7 +34,9 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-# Git Hub 
+![alt text](./assets/images/Password Generator Screenshot.jpg  "Password Generator")
+
+# Git Hub
 
 Please find the URL for the completed challenge: url[https://bdjs0033.github.io/Passsword_Generator/]
 

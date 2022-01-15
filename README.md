@@ -34,7 +34,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-![alt text](./assets/images/Password Generator Screenshot.jpg  "Password Generator")
+![alt text](assets/images/Password%20Generator%20Screenshot.jpg "Password Generator")
 
 # Git Hub
 

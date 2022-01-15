@@ -38,6 +38,6 @@ THEN the password is either displayed in an alert or written to the page
 
 # Git Hub
 
-Please find the URL for the completed challenge: https://bdjs0033.github.io/Passsword_Generator/
+Please find the URL for the completed challenge: https://bdjs0033.github.io/Passsword_Generator
 
 Please find the URL for the repository: https://github.com/BDJS0033/Passsword_Generator
